@@ -18,7 +18,7 @@ AppSignature es una aplicación Android que permite a los usuarios crear, guarda
 
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/AppSignature.git`
+1. Clona este repositorio: `git clone https://github.com/VasqCD/AppSignature.git`
 2. Abre el proyecto en Android Studio
 3. Sincroniza con los archivos Gradle
 4. Ejecuta la aplicación en un emulador o dispositivo físico
